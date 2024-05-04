@@ -1,0 +1,28 @@
+{
+  "name": "realtime_collaboration_demo_server",
+  "version": "1.0.0",
+  "description": "Server for Realtime Collaboration Demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yash-chudasama/real-time-collaboration-demo.git"
+  },
+  "keywords": [
+    "Realtime",
+    "collaboration"
+  ],
+  "author": "Yash Chudasama",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yash-chudasama/real-time-collaboration-demo/issues"
+  },
+  "homepage": "https://github.com/yash-chudasama/real-time-collaboration-demo#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.19.2",
+    "socket.io": "^4.7.5"
+  }
+}
